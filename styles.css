@@ -1,0 +1,26 @@
+/*
+        Audrey Harmon
+        Backend Web Development
+        October 20, 2023
+*/
+
+h1{
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    display: flex;
+}
+
+.games{
+    float: right;
+    padding-right: 50px;
+    padding-bottom: 25px;
+}
+
+.submit{
+    margin-left: 45%;
+    text-align: center;
+}
